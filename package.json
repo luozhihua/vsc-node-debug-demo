@@ -1,0 +1,26 @@
+{
+  "name": "vsc-node-debug-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luozhihua/vsc-node-debug-demo.git"
+  },
+  "keywords": [
+    "node",
+    "debug"
+  ],
+  "author": "mail@luozhihua.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luozhihua/vsc-node-debug-demo/issues"
+  },
+  "homepage": "https://github.com/luozhihua/vsc-node-debug-demo#readme",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
